@@ -1,9 +1,12 @@
 # MathQuiz
 Simple Math Quiz 
+
+
 ![image](https://user-images.githubusercontent.com/119830538/210704084-232ae1d4-2502-4c74-b50f-2a6a842c5a7d.png)
 
 
-## Source COde
+
+## CODE
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -145,6 +148,7 @@ namespace MathQuizVista
     }
 }
 
+## OUTPUT
+![image](https://user-images.githubusercontent.com/119830538/210704440-c0e1ecee-12e6-468b-99d6-affcffadd03a.png)
 
-       
  
